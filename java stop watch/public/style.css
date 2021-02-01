@@ -1,0 +1,30 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    background-image: linear-gradient(to right, rgba(169, 214, 97, 0.171), rgb(20, 17, 65));
+    
+}
+.main{
+    padding: 5px;
+    
+    background-color: rgb(155, 151, 153);
+
+}
+.box{
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0 auto;
+}
+.time{
+    padding: 10px;
+    margin: 5px;
+}
+#milisec{
+    font-size: 25px;
+}
+.btn{
+    padding: 3px;
+    margin: 5px;
+    
+}
